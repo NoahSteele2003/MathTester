@@ -9,7 +9,6 @@ public class MathTester {
         secondWord ="house";
         firstNumber = 5;
         secondNumber = 10;
-        //hello
 
 
         System.out.println(firstWord+secondWord);
@@ -19,7 +18,7 @@ public class MathTester {
         System.out.println("secondNumber / firstNumber is "+ (secondNumber/firstNumber));
         System.out.println("firstNumber * secondNumber is "+ (firstNumber*secondNumber));
         System.out.println("The modulus of the secondNumber by the firstNumber is "+ (secondNumber%firstNumber));
-        
+
 
     }
 }
