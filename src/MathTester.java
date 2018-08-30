@@ -9,6 +9,7 @@ public class MathTester {
         secondWord ="house";
         firstNumber = 5;
         secondNumber = 10;
+        //hello
 
 
         System.out.println(firstWord+secondWord);
