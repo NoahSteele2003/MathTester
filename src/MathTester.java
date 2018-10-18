@@ -105,6 +105,23 @@ public class MathTester {
 
 
 
+        /*String[] test = new String[1000];
+
+        for(int x=0;x<test.length;x++){
+            if((x%2)==0){
+                test[x] = "even";
+            }
+            else if((x%2)!=0){
+                test[x] = "odd";
+            }
+        }
+
+        for(String watch:test){
+            System.out.println(watch);
+        }*/
+
+
+
 
 
 
